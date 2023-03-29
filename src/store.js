@@ -46,10 +46,14 @@ const useStore = create(set => ({
       "primary-school": {
         name: "Primary School",
       },
+      "secondary-school": {
+        name: "Secondary School",
+      }
     },
     entities: [
       "maths",
-      "primary-school"
+      "primary-school",
+      "secondary-school"
     ],
   },
   tokens: {

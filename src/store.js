@@ -314,7 +314,7 @@ const useStore = create(set => ({
         categories: ["primary-school", "biology"],
         dateCreated: randomDate(new Date(2022, 0, 1), new Date()),
       },
-      "biology": {
+      "biology-2": {
         id: "biology",
         name: "Biology Exam",
         image: "/tokens/biology.png",
